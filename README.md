@@ -1,4 +1,4 @@
-Aguilera's Suite es un sistema de gestión empresarial moderno, responsivo y completamente funcional, diseñado para PYMES en Latinoamérica (especialmente Honduras). Construido como una aplicación frontend autocontenida en un solo archivo HTML, no requiere backend, frameworks ni compilación.
+Aguilera's Suite es un sistema de gestión empresarial moderno, responsivo y completamente funcional. Construido como una aplicación frontend autocontenida en un solo archivo HTML, no requiere backend, frameworks ni compilación.
 
 Ideal para demostraciones, prototipos rápidos, pruebas de concepto o como base para sistemas reales con integración posterior.
 
@@ -51,5 +51,5 @@ Este proyecto es de código abierto bajo la licencia MIT.
 Desarrollado para José Aguilera.
 
 Nombre del proyecto: Aguilera's Suite
-Versión: 0.03
+Versión actual: 0.04
 Autor: José Chinchilla.
