@@ -51,5 +51,5 @@ Este proyecto es de código abierto bajo la licencia MIT.
 Desarrollado para José Aguilera.
 
 Nombre del proyecto: Aguilera's Suite
-Versión actual: 0.04
+Versión actual: v0.5.0-alpha
 Autor: José Chinchilla.
